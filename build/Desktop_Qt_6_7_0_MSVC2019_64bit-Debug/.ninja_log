@@ -1,0 +1,7 @@
+# ninja log v5
+1	149	7342805529259378	MY_PROJECT_autogen/timestamp	df81f8958b01ad67
+1	149	7342805529259378	MY_PROJECT_autogen/mocs_compilation.cpp	df81f8958b01ad67
+1	149	7342805529259378	C:/Users/1/Desktop/Web/try/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/MY_PROJECT_autogen/timestamp	df81f8958b01ad67
+1	149	7342805529259378	C:/Users/1/Desktop/Web/try/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/MY_PROJECT_autogen/mocs_compilation.cpp	df81f8958b01ad67
+156	396	7342805532041917	CMakeFiles/MY_PROJECT.dir/src/main.cpp.obj	772b1dd8c455c740
+149	409	7342805532051916	CMakeFiles/MY_PROJECT.dir/MY_PROJECT_autogen/mocs_compilation.cpp.obj	ec39da90a66a0760
